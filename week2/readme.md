@@ -1,6 +1,5 @@
 ### week2
 
----
 - [x] Scrabble
 - [x] Readability
 - encryption
