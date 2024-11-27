@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It is best in sorted txt, and worst in reversed txt.
+
+sort2 uses: merge sort
+
+How do you know?:It is fast on average. 
+
+sort3 uses: selection sort
+
+How do you know?: It takes around same time in different types txt with same number words.
