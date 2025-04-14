@@ -1,4 +1,4 @@
-[English]()
+[English](./README_en.md)  
 这是我学习 David J. Malan 老师的 CS50 中一些习题我自己的解答。  
 这其中包含：  
 + C 语言部分 week 1 到 week 5
